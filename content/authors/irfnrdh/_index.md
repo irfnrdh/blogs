@@ -8,6 +8,6 @@ title = "Instagram"
 url = "https://instagram.com/irfnrdh"
 [[social]]
 title = "Blog"
-url = "irfnrdh.github.io"
+url = "https://irfnrdh.github.io"
 
 +++
