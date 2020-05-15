@@ -1,5 +1,5 @@
 +++
-authors = [irfnrdh]
+authors = ["irfnrdh"]
 date = 2020-05-14T17:00:00Z
 excerpt = "Menulis adalah bagian hidup dari seorang blogger masa kini. Tiada hari tanpa menulis dan tiada hari juga tanpa berfikir mau nulis apa hari ini."
 hero = "/images/advice-answer-ask-assistance.jpg"
