@@ -4,7 +4,7 @@ bio = "didepan komputer hampir sepanjang hari"
 featured = true
 title = "Irfannur Diah"
 [[social]]
-title = "Twitter"
+title = "twitter"
 url = "https://twitter.com/irfnrdh"
 [[social]]
 title = "Instagram"
