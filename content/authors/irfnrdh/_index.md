@@ -10,7 +10,7 @@ url = "https://twitter.com/irfnrdh"
 title = "instagram"
 url = "https://instagram.com/irfnrdh"
 [[social]]
-title = "Blog"
+title = "blog"
 url = "https://irfnrdh.github.io"
 
 +++
