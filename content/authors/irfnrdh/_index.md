@@ -7,7 +7,7 @@ title = "Irfannur Diah"
 title = "twitter"
 url = "https://twitter.com/irfnrdh"
 [[social]]
-title = "Instagram"
+title = "instagram"
 url = "https://instagram.com/irfnrdh"
 [[social]]
 title = "Blog"
