@@ -9,7 +9,7 @@ title = "Tulisan Pertama, Awal yang baik"
 +++
 Hari pertama menulis pastinya tidak ada hal yang ditulis. tapi hari demi hari jika terus-terus  menulis maka akan timbul suatu hal yang baru yang ingin ditulis dan selalu ingin menulis.
 
-Ini adalah perasaan kemarok. dimana inginkan yang lebih ketika baru pertama kali mencobanya. 
+Ini adalah perasaan kemarok. dimana inginkan yang lebih ketika baru pertama kali mencobanya.
 
 Perasaan ini biasanya datang pada saat belum mengenal menjadi mengenal dan akhirnya menjadi kebiasaan. Namun pada rutinitas yang biasa dilakukan menjadi sebuah kebosanan.
 
