@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/irfannur-diah-1.md
 - content/authors/irfannur-diah.md
